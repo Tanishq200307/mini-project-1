@@ -7,16 +7,19 @@ The dataset includes features such as age, BMI, smoking status, number of childr
 
 ---
 
+
 ## 📂 Project Structure
 
+```text
 mini-project-1/
 ├── data/
-│   └── insurance.txt
+│   └── insurance.txt        # Dataset used for analysis
 ├── notebooks/
-│   ├── 01_exploration.ipynb
-│   └── 02_modeling.ipynb
-├── requirements.txt
-└── README.md
+│   ├── 01_exploration.ipynb # Data exploration and visualization
+│   └── 02_modeling.ipynb    # Model building and evaluation
+├── requirements.txt         # Project dependencies
+└── README.md                # Project documentation
+
 
 
 ---
