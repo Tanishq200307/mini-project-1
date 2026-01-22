@@ -8,10 +8,15 @@ The dataset includes features such as age, BMI, smoking status, number of childr
 ---
 
 ## 📂 Project Structure
-├── cost_insurance.ipynb # Exploratory Data Analysis & Visualization
-├── modeling.ipynb # Data preprocessing & ML modeling
-├── insurance.csv # Dataset
-├── README.md # Project documentation
+
+mini-project-1/
+├── data/
+│   └── insurance.txt
+├── notebooks/
+│   ├── 01_exploration.ipynb
+│   └── 02_modeling.ipynb
+├── requirements.txt
+└── README.md
 
 
 ---
