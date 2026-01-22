@@ -20,8 +20,11 @@ mini-project-1/
 ├── requirements.txt         # Project dependencies
 └── README.md                # Project documentation
 
-
-
+```
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## 📊 Dataset Description
@@ -110,25 +113,19 @@ All models perform similarly, indicating a strong linear relationship between fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tanishq200307/mini-project-1
+   ```
 
 Open notebooks in Google Colab or Jupyter Notebook
-
 Ensure insurance.csv is in the same directory
-
 Run cells sequentially
-
 📌 Future Improvements
-
 Try non-linear models (Random Forest, XGBoost)
-
 Feature engineering (interaction terms)
-
 Hyperparameter tuning
-
 Model deployment using Flask or FastAPI
 
 👤 Author
-
 Tanishq Rawat
+Vibhor Malik
 Data Analysis & Machine Learning Enthusiast
 
